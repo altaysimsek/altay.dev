@@ -7,6 +7,8 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@splinetool/react-spline": "^2.2.1",
+    "@splinetool/runtime": "^0.9.78",
     "next": "12.1.4",
     "react": "18.0.0",
     "react-dom": "18.0.0"
