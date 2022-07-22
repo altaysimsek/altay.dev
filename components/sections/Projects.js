@@ -32,8 +32,8 @@ const Projects = () => {
             <Image
               src="/phohipologo.png"
               alt="Phohipo"
-              width="122px"
-              height="47px"
+              width="128px"
+              height="56px"
             />
           </div>
           <p>Phohipo is a Unsplash client.</p>
