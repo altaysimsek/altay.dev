@@ -12,7 +12,7 @@ export default function Home() {
         <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png" />
         <link rel="icon" type="image/png" sizes="96x96" href="/favicon-96x96.png" />
         <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png" />
-        <meta charset="UTF-8" />
+        <meta charSet="UTF-8" />
         <meta name="description" content="Hello, It is Altay. You can reach me out there." />
         <meta name="keywords" content="HTML, CSS, JavaScript, ReactJS" />
         <meta name="author" content="Altay Simsek" />

@@ -1,4 +1,5 @@
 import React from "react";
+import Image from 'next/image'
 const Projects = () => {
   return (
     <section className="mt-4">
@@ -12,7 +13,7 @@ const Projects = () => {
           target="_blank" rel="noreferrer"
         >
           <div>
-            <img
+            <Image
               src="/kesylogow.png"
               alt="Kesy.me"
               width="122px"
@@ -28,7 +29,7 @@ const Projects = () => {
           target="_blank" rel="noreferrer"
         >
           <div>
-            <img
+            <Image
               src="/phohipologo.png"
               alt="Phohipo"
               width="122px"
@@ -44,7 +45,7 @@ const Projects = () => {
           target="_blank" rel="noreferrer"
         >
           <div>
-            <img
+            <Image
               src="/klimalogo.png"
               alt="Kesy.me"
               width="122px"
@@ -61,7 +62,7 @@ const Projects = () => {
           target="_blank" rel="noreferrer"
         >
           <div>
-            <img
+            <Image
               src="/moviuplogo.png"
               alt="MovieUP"
               width="122px"

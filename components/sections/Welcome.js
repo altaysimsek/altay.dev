@@ -1,5 +1,6 @@
 import React from "react";
 import Contact from '../Contact'
+import Image from 'next/image'
 
 const Welcome = () => {
   return (
@@ -18,7 +19,9 @@ const Welcome = () => {
         </div>
       </div>
       <div className="flex justify-center items-center w-full lg:w-5/12 p-5">
-        <img src="/altay.jpg" alt="Altay Simsek" className="transition drop-shadow-[10px_10px_0px_rgba(242,254,0,1)] hover:drop-shadow-[20px_20px_0px_rgba(242,254,0,1)]" width="300px"></img>
+        <div className="transition drop-shadow-[10px_10px_0px_rgba(242,254,0,1)] hover:drop-shadow-[20px_20px_0px_rgba(242,254,0,1)]">
+          <Image src="/altay.jpg" alt="Altay Simsek" className={''} width={'300'} height={'489'} ></Image>
+        </div>
       </div>
     </section>
   );
