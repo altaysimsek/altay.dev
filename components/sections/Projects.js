@@ -41,7 +41,7 @@ const Projects = () => {
         <a
           className="w-80 h-80 transition ease-in-out hover:scale-105 flex m-4 justify-center items-center flex-col relative"
           style={{ backgroundColor: "#220FD5", color: "#F2FE67" }}
-          href="https://github.com/altaysimsek/phohipo"
+          href="https://github.com/altaysimsek/klimAPP"
           target="_blank" rel="noreferrer"
         >
           <div>
