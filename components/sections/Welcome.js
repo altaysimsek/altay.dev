@@ -9,7 +9,7 @@ const Welcome = () => {
         <h1 className="font-bold text-3xl mb-8">Hey there 👋<br />
           I am Altay Simsek, a <span className="text-[#F2FE67]">front-end developer</span>
         </h1>
-        <p className="text-lg">4th grade Computer Engineering Student at <strong>Pamukkale University</strong>. I am interested in front-end technologies and love working with <strong>JavaScript</strong>. Trying to contribute open-source projects and publishing my own projects on <strong>GitHub</strong>.</p>
+        <p className="text-lg">I am currently working at <strong>Trendyol</strong> as Software Developer also graduated from Computer Engineering Student at <strong>Pamukkale University</strong>. I am interested in front-end technologies and love working with <strong>JavaScript</strong>. Trying to contribute open-source projects and publishing my own projects on <strong>GitHub</strong>.</p>
         <div className="flex flex-col mt-auto">
           <p className="text-[#F2FE67] mb-2">Feel free to contact</p>
           <div>
